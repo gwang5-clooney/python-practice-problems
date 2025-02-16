@@ -18,7 +18,9 @@ def part1(jolts):
     Returns an integer
     """
 
-    ### Replace with your code
+    built_in_joltage = jolts.max() + 3
+
+    for 
     return None
 
 
