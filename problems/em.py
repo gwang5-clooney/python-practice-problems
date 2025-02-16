@@ -1,3 +1,3 @@
-def foo():
+def too():
 	pass
 
